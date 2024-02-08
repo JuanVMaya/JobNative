@@ -1,3 +1,3 @@
-# CraftyArc
+# JobNative
 
-App integration with Etsy store. Allows to read orders.
+App integration with Jsearch for searching react developer jobs.
